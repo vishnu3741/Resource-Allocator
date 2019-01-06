@@ -1,0 +1,62 @@
+Group Members:
+	P Vishnu Teja(160010014)
+	M Niteesh (160010029)
+Contribution percentages : P Vishnu Teja(50%) M Niteesh (50%)
+Files:
+adminlogin.html
+	It takes the username and password from admin
+studentlogin.html
+	It takes the username and password from student
+passwordchecker.php
+	It verifies whether the username and password are of admin
+adminoptions.html
+	It shows the options to be used by admin
+addresources.html
+	It shows the options whether to add a new resource and increase the same resource
+add1.html
+	It takes the inputs
+add1.php
+	It takes the inputs in add1.html and It increases the number of sameresource 
+add2.html
+	It takes the inputs
+add2.php
+	It generates a form and Inputs are taken 
+add3.php
+	It takes the inputs in add2.php and It adds a new resource of same resourcetype
+addresourcetype.html
+	It takes the name of table and number of columns to be added
+addresourcetype1.php
+	It takes the name of column and type of the input
+addresourcetype2.php
+	It will add to mysql table
+returnresources.php
+	It's used by the students whether to claim or return the resources
+rem.html
+	It takes the inputs
+rem.php
+	It takes the inputs in rem.html and It decreases the number of sameresource 
+del.html
+	It takes the inputs
+del.php
+	It takes the inputs in del.html and It deletes a  resource of same resourcetype
+changepassword.html
+	It's used to give the inputs
+changepassword.php
+	It takes the input and changes the password
+
+Install :
+Just keep all the files in your web server
+Run :
+If your a an admin go to adminlogin.html
+If you are a student just go to studentlogin.html
+
+
+
+
+
+
+
+
+
+
+
